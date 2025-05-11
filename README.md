@@ -24,5 +24,5 @@ This README is cool.
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/LordJunn) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/LordJunn) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- This was the worst trade off of all time I WANT MY NAME BACKKKK -->
