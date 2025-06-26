@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello, I do things. Currently a step up from toddler coder, I am now a ~~Preschool~~ Gradeschooler tier coder.  
-I require an adultier adult to guide me through anything I have yet to learn.     
+I require an adultier adult to guide me through anything I have yet to learn.   
+Soon, I will need to put on my big boy boots.      
 This README is cool.    
 
 ![Vic read](https://www.novelupdatesforum.com/attachments/screenshot_20180308-085239-jpg.40270/)
